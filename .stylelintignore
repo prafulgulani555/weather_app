@@ -1,0 +1,2 @@
+**/*.html     // Ignore all HTML files
+**/templates/*.html    // Ignore all HTML files in a specific directory
